@@ -1,17 +1,7 @@
 <html>
 <head>
   <title>Thonking</title>
-  <style>
-      header{
-        font-size: 25px;
-    }
-    
-    img{
-      height: 500px;
-      width: auto;
-      right: 50%;
-    }
-  </style>
+
 </head>
 <body>
   <header>
