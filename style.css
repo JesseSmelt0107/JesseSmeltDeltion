@@ -1,8 +1,11 @@
 header{
 
     text-align: center;
+    font-size: 50px;
 }
 
 #mainimage{
-    left: 50%;
+    margin-left: 35%;
+    width: 444px;
+    height: auto;
 }
